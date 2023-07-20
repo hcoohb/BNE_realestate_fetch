@@ -1,0 +1,14 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "hcoohb", email = "hcoohb@gmail.com"},
+]
+dependencies = [
+    "realestate-com-au-api @ git+https://github.com/muhashi/realestate-com-au-api.git",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
